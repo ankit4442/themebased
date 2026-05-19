@@ -53,7 +53,7 @@ const Home = () => {
             color: "#333",
           }}
         >
-          Counter App 🚀
+          Counter Appnjnn 🚀
         </h2>
 
         <h1
