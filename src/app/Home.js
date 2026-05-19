@@ -42,7 +42,7 @@ const Home = () => {
               cursor: "pointer",
             }}
         onClick={()=>changeTheme()}>
-          change Theme
+          change Theme dark
         </button>
       </div>
         <h2
